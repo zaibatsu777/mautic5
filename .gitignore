@@ -1,4 +1,5 @@
 .*
+!.user.ini
 !.github
 !.gitignore
 !.htaccess
